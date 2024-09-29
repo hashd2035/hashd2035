@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hashd2035
-- 👀 I’m interested in distributed systems, blockchain technologies and algorithmic trading
-- 🌱 I’m currently learning golang and rust
-- 💞️ I’m looking to collaborate on anything related to blockchain
+- 👀 I’m interested in distributed systems, generative AI and quantum computing
 - 📫 How to reach me ...
 
 <!---
